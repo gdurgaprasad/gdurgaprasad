@@ -2,19 +2,18 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/aman-atg/">
+<a href="https://www.linkedin.com/in/durga-prasad-66680b140/">
   <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://t.me/amanatg0">
+<!-- <a href="https://t.me/amanatg0">
   <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
 <a href="https://twitter.com/aman_atg">
   <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a> -->
 
-<a href="mailto:aman.atg001@gmail.com">
+<a href="mailto:durgaprasaddp184@gmail.com">
   <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -24,13 +23,13 @@
 <br/>
 
 <p>
-A Skilled FullStack JavaScript Developer 🚀 from India. Always working on some project or learning something new!
+A Skilled Front End Developer 🚀 from India. Always working on some project or learning something new!
 <br/>
-Stacks I have worked with : MEAN , ANGULAR+Firebase , ANGULAR+SPRING BOOT
+Stacks I have worked with : ANGULAR, MEAN, ANGULAR+Firebase.
 <br/>  
 Things I am currently experimenting with :Typescript, Javascript Data Structures & Algorithms ...
 <br/>
-Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️.
+Want to become a full stack Developer 💸 and an Open Source Contributor ❤️.
 </p>
 
 
@@ -45,7 +44,7 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 - ⚡️ Fun-Fact: I sleep at 12am 🙃.
 - 🎿 Hobbies other than coding : Reading blogs on MEDIUM DIGEST, Playing games.
 - 📫 How to reach me: durgaprasaddp184@gmail.com or 9581828953
-- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj)
+<!-- 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj) -->
 
 ### 🛠️ Languages and Tools:
 
@@ -83,9 +82,8 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
 or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](mailto:durgaprasaddp184@gmail.com)
 
-<!--❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
+❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/aman-atg?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@aman_atg-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 if you are on a similar path as mine.
--->
 
 ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
 ----
