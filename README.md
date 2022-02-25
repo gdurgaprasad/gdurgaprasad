@@ -32,8 +32,8 @@ Things I am currently experimenting with :Typescript, Javascript Data Structures
 Want to become a full stack Developer 💸 and an Open Source Contributor ❤️.
 </p>
 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+<!-- 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" /> -->
   
 ### ✨ Quick Facts
 
